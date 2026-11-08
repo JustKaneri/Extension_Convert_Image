@@ -1,0 +1,4 @@
+# Nautilus Image Converter
+# Python dependencies
+
+Pillow>=10.0.0
